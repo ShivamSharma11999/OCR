@@ -1,0 +1,2 @@
+# OCR
+Blind People detection
